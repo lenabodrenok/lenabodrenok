@@ -1,9 +1,7 @@
 ## **Hi there** 👋
 My name is Lena. I'm learning automation testing with [QA.GURU](https://github.com/qa-guru) :wink:
 
-### :envelope: Contacts
-- [Mail](lena.bodrenok@gmail.com)
-- [Telegram](https://t.me/bodrenok)
+
 
 
 
