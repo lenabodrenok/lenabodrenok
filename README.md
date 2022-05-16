@@ -1,9 +1,6 @@
 ## **Hi there** 👋
-My name is Lena. I'm learning to create UI tests.
+My name is Lena. I'm learning automation testing with [QA.GURU](https://github.com/qa-guru).
 
-## I’m currently learning:
-
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)
 
 
 
