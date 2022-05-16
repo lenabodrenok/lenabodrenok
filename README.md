@@ -2,7 +2,7 @@
 My name is Lena. I'm learning automation testing with [QA.GURU](https://github.com/qa-guru).
 
 ### Contacts
-[![Telegram](images/telegram_icon.png)](https://t.me/bodrenok) [![Email](images/gmail_icon.png)](mailto:lena.bodrenok@gmail.com)
+[![Telegram](images/Telegram.png)](https://t.me/bodrenok) [![Email](images/Gmail.png)](mailto:lena.bodrenok@gmail.com)
 
 
 
