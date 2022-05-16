@@ -1,8 +1,10 @@
 ## **Hi there** 👋
-My name is Lena. I'm learning automation testing with [QA.GURU](https://github.com/qa-guru).
+My name is Lena. I'm learning automation testing with [QA.GURU](https://github.com/qa-guru) :wink:
 
-### Contacts
-[![Telegram](images/Telegram.png)](https://t.me/bodrenok) [![Email](images/Gmail.png)](mailto:lena.bodrenok@gmail.com)
+### :envelope: Contacts
+- [Mail](lena.bodrenok@gmail.com)
+- [Telegram](https://t.me/bodrenok)
+
 
 
 
